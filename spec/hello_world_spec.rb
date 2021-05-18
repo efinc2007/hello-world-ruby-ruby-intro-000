@@ -1,2 +1,2 @@
-/home/fair-chipset-5a7d/hello-world-ruby-ruby-intro-000/sp
+Puts $ ruby hello_world.rb
 "Hello World!"
