@@ -1,2 +1,2 @@
-Put $ ruby hello_world.rb
+Put ruby hello_world.rb
 "Hello World!"
